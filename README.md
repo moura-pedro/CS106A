@@ -1,3 +1,3 @@
 # CS106A
-Stanford's Introductory Python programming course
+Stanford's Introductory Python Programming Course
 
